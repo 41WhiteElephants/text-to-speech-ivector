@@ -6,8 +6,9 @@ def main():
 	ivec_path = "/macierz/home/s174520/ivector-xvector/ivector/data/feat/ivectors_enroll_mfcc/ivector.1.ark"
 	ivec_dict = ark2dict(ivec_path)
 	print len(ivec_dict)
-	do_tsne()
-	plot()
+	# do_tsne()
+	# plot()
+	
 		
 
 
